@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week9App</string>
+    <string name="txtTile">Car Finaancing App</string>
+    <string name="hint1">Number of years</string>
+    <string name="hint2">Loan Amount</string>
+    <string name="hint3">Interest Rate</string>
+    <string name="btnPayment">Find Monthly payment</string>
+    <string name="imgDes">an image</string>
+    <string name="btnWrite">Write to the File</string>
+    <string name="btnThird">Third Activity</string>
+</resources>
